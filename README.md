@@ -8,6 +8,5 @@ To power the hole PCB over one 5V connection, make a bridge between pad 2 and 3.
 
 
 ![](images/canvasfront.png)
-
 ![](images/canvasback.png)
 
